@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML projects<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ADS and FULL STACK<br>💬 Ask me about anything related to Data Analysis and related technologies<br>⚡ You can always be better
+🔭 I’m Currently Working on ML and GenAI Projects<br>👯 I’m looking to collaborate on AI/ML Engineer<br>🌱 I’m currently learning DSA and Generative AI<br>💬 Ask me about anything related to Data Analysis and related technologies<br>⚡ You can always be better
 
 
 ## 🌐 Socials:
